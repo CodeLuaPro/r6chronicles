@@ -2,6 +2,7 @@
 IMPORTANT!!!!!!!!!!!
 1)install python 3.8.5 or higher and add to PATH in the installation window
 2)install pycharm
+3) in your cmd, do pip install pygame
 3)run program.py with pycharm
 4)right click on program.py inside pycharm and select "debug"
   a.if it doesn't debug, follow the instructions and add an interpreter "Python". Then debug
